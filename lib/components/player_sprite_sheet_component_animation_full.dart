@@ -75,6 +75,6 @@ class PlayerSpriteSheetComponentAnimationFull extends SpriteAnimationComponent
       stepTime: .08,
     );
 
-    animation = runAnimation;
+    animation = walkAnimation;
   }
 }
